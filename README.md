@@ -1,4 +1,5 @@
 
+![tyrell-wellick-mr-robot](https://github.com/sudo-joao-carvalho/sudo-joao-carvalho/assets/73914719/0e3f6e0d-f107-4def-8cb4-ce35960cb7ee)
 
 <!--
 **sudo-joao-carvalho/sudo-joao-carvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
