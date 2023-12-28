@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![Uploading 68747470733a2f2f632e74656e6f722e636f6d2f4b7977463568674d39673441414141432f6361742d636f64696e672e676966.gif…]()
 
 <!--
 **sudo-joao-carvalho/sudo-joao-carvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
