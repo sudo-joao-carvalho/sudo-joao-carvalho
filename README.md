@@ -1,5 +1,5 @@
 
-![Uploading 68747470733a2f2f632e74656e6f722e636f6d2f4b7977463568674d39673441414141432f6361742d636f64696e672e676966.gif…]()
+![68747470733a2f2f632e74656e6f722e636f6d2f4b7977463568674d39673441414141432f6361742d636f64696e672e676966](https://github.com/sudo-joao-carvalho/sudo-joao-carvalho/assets/73914719/86625d50-eb9c-4fbd-bf8a-46cc953c17b6)
 
 <!--
 **sudo-joao-carvalho/sudo-joao-carvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
