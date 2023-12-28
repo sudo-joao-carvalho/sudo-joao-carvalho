@@ -1,6 +1,6 @@
 
 <!--![tyrell-wellick-mr-robot](https://github.com/sudo-joao-carvalho/sudo-joao-carvalho/assets/73914719/0e3f6e0d-f107-4def-8cb4-ce35960cb7ee)-->
-<img src="https://media1.tenor.com/m/c453dlqOPlYAAAAC/tyrell-wellick-mr-robot.gif" width="1000" height="500"/>
+<img src="https://media1.tenor.com/m/c453dlqOPlYAAAAC/tyrell-wellick-mr-robot.gif" width="1000" height="400"/>
 
 
 <!--
